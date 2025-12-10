@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+header{
+    border: 3px solid red;
+    background-image: url("../images/photo-1636955903101-d6b4b926018c.avif") 
+}
+
+
+    
+body{
+
+color: black;
+background-image: url("../images/photo-wall-texture-pattern_58702-15322.jpg");
+
+}
+
+
+.titulo
+
+{
+
+    font-family: sans-serif;
+    height: 180px;
+    color: black;
+    text-align:center;
+    padding-top:40px;
+    
+    
+
+    
+}
+
+
+
+.main{
+
+    justify-content: center;
+
+
+
+}
+
+
+img{
+
+width: 160px;
+
+
+
+}
+
+.flex{
+display: flex;
+align-items: center;
+justify-content: center;
+margin-top: 25px;
+margin-bottom: 25px;
+
+
+
+
+}
+
+p
+
+{
+
+margin-left: 10px;
+font-size: 25px;
+color: white ;
+
+
+
+
+
+}
+
+footer{
+
+
+    background-color: red;
+    text-align: center;
+    padding: 25px
+}
